@@ -1,0 +1,54 @@
+GET http://www.yangshuolife.com/plugin.php?id=hejin_toupiao&model=clicks&vid=1&formhash=c8cbcc3e HTTP/1.1
+Host: www.yangshuolife.com
+Accept-Encoding: gzip, deflate
+Cookie: 1hfO_2132_lastact=1485392946%09plugin.php%09; 1hfO_2132_lastvisit=1485341709; 1hfO_2132_saltkey=alRXlIdd; 1hfO_2132_sid=jT9v5S; __jsluid=54c34f654699a6e131891cb712318b72; hjbox_openid=oN8y8wf2KT0LCeeMlGgL1ks_S_80; safedog-flow-item=
+Connection: keep-alive
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36 MicroMessenger/6.5.4 NetType/WIFI Language/zh_CN
+Referer: http://www.yangshuolife.com/plugin.php?id=hejin_toupiao&model=votea&vid=1
+Accept-Language: zh-cn
+X-Requested-With: XMLHttpRequest
+
+
+HTTP/1.1 200 OK
+Date: Thu, 26 Jan 2017 01:09:07 GMT
+Content-Type: text/html; charset=gbk
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: 1hfO_2132_sid=H66Udl; expires=Fri, 27-Jan-2017 01:09:07 GMT; Max-Age=86400; path=/
+Set-Cookie: 1hfO_2132_lastact=1485392947%09plugin.php%09; expires=Fri, 27-Jan-2017 01:09:07 GMT; Max-Age=86400; path=/
+Set-Cookie: 1hfO_2132_mobile=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Cache: bypass
+
+
+
+------------------------------------------------------------------
+
+GET http://www.yangshuolife.com/plugin.php?id=hejin_toupiao&model=ticket&zid=41&formhash=c8cbcc3e&_=1485392947184 HTTP/1.1
+Host: www.yangshuolife.com
+Accept-Encoding: gzip, deflate
+Cookie: 1hfO_2132_lastact=1485392947%09plugin.php%09; 1hfO_2132_lastvisit=1485341709; 1hfO_2132_saltkey=alRXlIdd; 1hfO_2132_sid=H66Udl; __jsluid=54c34f654699a6e131891cb712318b72; hjbox_openid=oN8y8wf2KT0LCeeMlGgL1ks_S_80; safedog-flow-item=
+Connection: keep-alive
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36 MicroMessenger/6.5.4 NetType/WIFI Language/zh_CN
+Referer: http://www.yangshuolife.com/plugin.php?id=hejin_toupiao&model=votea&vid=1
+Accept-Language: zh-cn
+X-Requested-With: XMLHttpRequest
+
+
+HTTP/1.1 200 OK
+Date: Thu, 26 Jan 2017 01:09:30 GMT
+Content-Type: text/html; charset=gbk
+Content-Length: 3
+Connection: keep-alive
+Set-Cookie: 1hfO_2132_sid=GV999f; expires=Fri, 27-Jan-2017 01:09:29 GMT; Max-Age=86400; path=/
+Set-Cookie: 1hfO_2132_lastact=1485392969%09plugin.php%09; expires=Fri, 27-Jan-2017 01:09:29 GMT; Max-Age=86400; path=/
+Set-Cookie: 1hfO_2132_mobile=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+X-Cache: bypass
+
+108
+
+------------------------------------------------------------------
+
